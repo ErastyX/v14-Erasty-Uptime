@@ -8,10 +8,7 @@
 
 </div>
 
-[![GitHub stars](https://img.shields.io/github/stars/Just-Some-Bots/MusicBot.svg)](https://github.com/Just-Some-Bots/MusicBot/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Just-Some-Bots/v14-Erasty-Uptime.svg)]([https://github.com/Just-Some-Bots/MusicBot/network](https://github.com/ErastyX/v14-Erasty-Uptime))
-[![Python version](https://img.shields.io/badge/python-3.8%2C%203.6%2C%203.7-blue.svg)](https://python.org)
-[![Discord](https://discordapp.com/api/guilds/1112643050976575488/widget.png?style=shield)](https://discord.gg/bots)
+[![GitHub stars](https://img.shields.io/github/stars/Just-Some-Bots/v14-Erasty-Uptime.svg)](https://github.com/ErastyX/v14-Erasty-Uptime/stargazers)
 
 # v14 Erasty Uptime
 
