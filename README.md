@@ -20,7 +20,7 @@ Botununuzun sorunsuz olarak calismasi icin [Discord Developer Portal](https://di
 
 ---
 
-YouTube : [Erasty](https://www.youtube.com/@Erasty.)
+YouTube : [Erasty]([https://www.youtube.com/@Erasty.](https://www.youtube.com/channel/UC-nU4WHUTfr3KJJmxD_2Twg/?sub_confirmation=1))
 
 Keyifli Kodlamalar ❤
 
