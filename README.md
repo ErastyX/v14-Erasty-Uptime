@@ -8,8 +8,6 @@
 
 </div>
 
-[![GitHub stars](https://img.shields.io/github/stars/Just-Some-Bots/v14-Erasty-Uptime.svg)](https://github.com/ErastyX/v14-Erasty-Uptime/stargazers)
-
 # v14 Erasty Uptime
 
 
